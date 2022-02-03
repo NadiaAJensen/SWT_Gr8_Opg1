@@ -7,6 +7,8 @@ namespace SWT_Gr8_Opg1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Katrine");
         }
     }
 }
