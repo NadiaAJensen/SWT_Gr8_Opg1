@@ -8,6 +8,7 @@ namespace SWT_Gr8_Opg1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Mojn");
+            Console.WriteLine("katrine");
         }
     }
 }
